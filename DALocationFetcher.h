@@ -66,7 +66,7 @@ typedef enum
  @abstract
  Returns the current location.
  @discussion
- Returns the current location as a CLLocation object.
+ Returns the current location as a CLLocation object if available.
  */
 @end
 
