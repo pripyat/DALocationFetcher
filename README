@@ -1,0 +1,3 @@
+A singleton class that uses CoreLocation and MapKit to find the iOS device's current location via convenient delegate methods. 
+
+This class may be used in any project as long as you leave this header intact.
