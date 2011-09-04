@@ -132,11 +132,11 @@
 	self.currentLocation = nil;
 	
 	[locationManager setDelegate:nil];
-    [locationManager release];
+        [locationManager release];
 	
-    [currentLocation release];
+        [currentLocation release];
 	[_delegate release];
-    [super dealloc];
+        [super dealloc];
 }
 
 @end
