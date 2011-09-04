@@ -22,7 +22,7 @@ typedef enum
 {
 	@private
 	CLLocationManager *locationManager;
-    CLLocation *currentLocation;
+        CLLocation *currentLocation;
 	MKReverseGeocoder *geoCoder;
 	id _delegate;
 }
